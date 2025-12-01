@@ -144,29 +144,28 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 <br><br>
 <br><br>
 
-## References
+
+
+
+
+
+## [References]()
 
 <br>
 
+* [**Chen, X., et al.**]() (2024). *LLM-based feature generation from text for interpretable machine learning*. arXiv preprint. Retrieved from arxiv.org/html/2409.07132v2
 
-## 📚 References
+* [**DataCamp.**]() (2024). *Pandas GroupBy Explained: Syntax, Examples, and Tips*. Retrieved from datacamp.com/tutorial/pandas-groupby
 
-* **Chen, X., et al.** (2024). *LLM-based feature generation from text for interpretable machine learning*. arXiv preprint. Retrieved from arxiv.org/html/2409.07132v2
+* [**GeeksforGeeks.**]() (2024). *Pandas dataframe.groupby() Method*. Retrieved from geeksforgeeks.org/pandas/python-pandas-dataframe-groupby
 
-* **DataCamp.** (2024). *Pandas GroupBy Explained: Syntax, Examples, and Tips*. Retrieved from datacamp.com/tutorial/pandas-groupby
+* [**Machine Learning Mastery.**]() (2024). *Feature Engineering with LLM Embeddings: Enhancing Scikit-learn Models*. Retrieved from machinelearningmastery.com
 
-* **GeeksforGeeks.** (2024). *Pandas dataframe.groupby() Method*. Retrieved from geeksforgeeks.org/pandas/python-pandas-dataframe-groupby
+* [**McKinney, W.**]() (2017). *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* (2nd ed.). O’Reilly Media.
 
-* **Machine Learning Mastery.** (2024). *Feature Engineering with LLM Embeddings: Enhancing Scikit-learn Models*. Retrieved from machinelearningmastery.com
+* [**Pandas Documentation.**]() (2024). *Group by: split-apply-combine*. Retrieved from pandas.pydata.org/docs/user_guide/groupby.html
 
-* **McKinney, W.** (2017). *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* (2nd ed.). O’Reilly Media.
-
-* **Pandas Documentation.** (2024). *Group by: split-apply-combine*. Retrieved from pandas.pydata.org/docs/user_guide/groupby.html
-
-* **VanderPlas, J.** (2016). *Python Data Science Handbook: Essential Tools for Working with Data*. O’Reilly Media.
-
-
-<br><br>
+* [**VanderPlas, J.**]() (2016). *Python Data Science Handbook: Essential Tools for Working with Data*. O’Reilly Media.
 
 
 <!-- ======================================= Start Footer ===========================================  -->
