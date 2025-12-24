@@ -207,19 +207,7 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
 
-<!--
-<p align="center">  ────────────── ✦ ──────────────
--->
 
-
-
-<!-- Programmers and artists are the only professionals whose hobby is their profession."
-
-" I love people who are committed to transforming the world "
-
-" I'm big fan of those who are making waves in the world! "
-
-##### <p align="center">( Rafael Lain ) </p>   -->
 
 #
 
