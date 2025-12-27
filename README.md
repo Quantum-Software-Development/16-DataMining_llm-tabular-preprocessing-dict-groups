@@ -121,7 +121,12 @@ The technique allows you to organize related columns (features) in a dataset usi
 
 <br>
 
+> [!TIP]
+>
 > **Perfect for**: Data Scientists, ML Engineers, AI Researchers, and Students working with tabular data and LLMs!
+> <br>
+>
+
 
 
 <br><br>
