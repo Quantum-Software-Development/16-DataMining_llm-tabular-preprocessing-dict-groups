@@ -16,7 +16,6 @@ Professor: [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](htt
 
 <br><br>
 
----
 
 ## 📚 Table of Contents
 
