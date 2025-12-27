@@ -103,23 +103,31 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 13. [References](#references)
 14. [Contact](#contact)
 
----
 
-## 🎯 Overview
+<br><br>
+
+
+## Overview
 
 This repository demonstrates **dictionary-based feature grouping** for tabular data preprocessing, specifically designed for integration with **Large Language Models (LLMs)** and AI/ML pipelines.
 
 The technique allows you to organize related columns (features) in a dataset using **dictionaries**, enabling:
-- ✅ Semantic grouping of features
-- ✅ Efficient preprocessing for LLM-based feature engineering
-- ✅ Better interpretability of tabular data
-- ✅ Streamlined data transformation pipelines
 
-👉 **Perfect for**: Data Scientists, ML Engineers, AI Researchers, and Students working with tabular data and LLMs!
+- Semantic grouping of features
+-  Efficient preprocessing for LLM-based feature engineering
+-  Better interpretability of tabular data
+-  Streamlined data transformation pipelines
 
----
 
-## 🤔 What is Dictionary-Based Feature Grouping?
+<br>
+
+> **Perfect for**: Data Scientists, ML Engineers, AI Researchers, and Students working with tabular data and LLMs!
+
+
+<br><br>
+
+
+##  What is Dictionary-Based Feature Grouping?
 
 **Dictionary-based feature grouping** is a data preprocessing technique where you use Python dictionaries to organize and group related columns (features) in a DataFrame based on their **semantic meaning** or **data type**.
 
