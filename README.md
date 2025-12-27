@@ -320,68 +320,54 @@ The notebooks use publicly available datasets:
 
 - **VanderPlas, J.** (2016). *Python Data Science Handbook: Essential Tools for Working with Data*. O'Reilly Media.
 
----
+
+
+
+
+
+<!-- ======================================= Start Footer ===========================================  -->
+
 
 <br><br>
 
-### ==================================
 
-### Yupiiii 👩🏻‍🚀 Still Building ๋ ⭑🛸๋⭑
-
-### =================================
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
 <br><br>
 
-#### 🌟 [Sponsor Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)
 
 
-> [!Important]  
-> ⚠️  
-> Heads Up
-> - • Projects and deliverables may be made [publicly available]() whenever possible.
-> - • The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Data Analysis and Data Mining** for partner organizations and institutions affiliated with the university.
-> - • All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
-> - • Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
 
-<br><br>
-
-##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
-
-https://github.com/user-attachments/assets/62dc99f6-e40f-4f48-8fa7-b00b3d443866
-
-#### 📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
-
-> [!Tip]
-> This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
-
-### ☞ **Access Data Mining [Main Repository](https://github.com/Quantum-Software-Development/1-Main_DataMining_Repository)**
-
----
-
-## 💬 Contact
-
-### 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
-
-#### 🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
-
----
 
 <br>
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/113218619/368403872-517fc573-7607-4c5d-82a7-38383cc0537d.GIF?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA4NzIxNjUsIm5iZiI6MTczMDg3MTg2NSwicGF0aCI6Ii8xMTMyMTg2MTkvMzY4NDAzODcyLTUxN2ZjNTczLTc2MDctNGM1ZC04MmE3LTM4MzgzY2MwNTM3ZC5HSUY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNlQwNDM3NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zM2RiYjNlZTZiZTlhOTZjMWY4ZjE3MzY3MGVhNjc5NTE5ZWJiMmZiOGZiOWE2ZDkzYjZiNmI0NDVjMmYxZjg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4HrEDrGYlnW7OTDHckH9Rt3uxHX8wQzCWgcZvRTKzQU" width="200">
-</p>
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
-<br>
 
-<p align="center">
-  ────────────── 🔭⬆──────────────
-</p>
 
-<p align="center">
-  <a href="#top">➣➢➤ Back to Top</a>
-</p>
 
-<br>
+<br><br><br>
 
-###### Copyright 2026 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+
+<!--
+<p align="center">  ────────────── ✦ ──────────────
+-->
+
+
+
+<!-- Programmers and artists are the only professionals whose hobby is their profession."
+
+" I love people who are committed to transforming the world "
+
+" I'm big fan of those who are making waves in the world! "
+
+##### <p align="center">( Rafael Lain ) </p>   -->
+
+#
+
+###### <p align="center"> Copyright 2026 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
