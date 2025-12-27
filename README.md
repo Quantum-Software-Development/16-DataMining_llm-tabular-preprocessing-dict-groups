@@ -148,20 +148,33 @@ feature_groups = {
 }
 ```
 
+<br>
+
 This makes it easier to:
+
 1. Apply specific transformations to each group
 2. Feed organized data to LLMs
 3. Understand your dataset structure
 4. Create modular and maintainable code
 
----
 
-## 🎯 Why Use This Technique?
+
+<br><br>
+
+
+
+##  Why Use This Technique?
+
+<br>
 
 ### **For Traditional ML**
 - 📦 **Organized Feature Engineering**: Group numerical, categorical, and text features separately
 - ⚛️ **Pipeline Efficiency**: Apply different transformers to different feature groups
 - 🧠 **Better Understanding**: Know which features belong together conceptually
+
+
+<br>
+
 
 ### **For LLM Integration**
 - 🤖 **Semantic Context**: LLMs perform better when features are semantically grouped
@@ -169,39 +182,62 @@ This makes it easier to:
 - 🔗 **Hybrid Models**: Combine tabular data with LLM embeddings effectively
 - 🚀 **Feature Generation**: Use LLMs to create new features from grouped columns
 
----
+
+<br><br>
+
 
 ## 📝 Key Concepts
 
 ### 1. **Pandas GroupBy**
 Core Python/Pandas functionality for splitting, applying, and combining data:
+
+<br>
+
+
 ```python
 df.groupby('category').agg({'value': 'mean'})
 ```
 
+<br>
+
 ### 2. **Dictionary Mapping**
 Using dictionaries to define feature relationships:
+
+<br>
+
 ```python
 column_mapping = {
     'group_name': ['col1', 'col2', 'col3']
 }
 ```
 
+<br>
+
 ### 3. **LLM Feature Engineering**
+
 Leveraging LLMs to:
+
 - Generate text embeddings from grouped text columns
 - Create semantic features
 - Enrich tabular data with contextual information
 
----
 
-## 📦 Installation
+<br><br>
+
+
+
+##  Installation
 
 ### Prerequisites
+
 - Python 3.8+
 - pip or conda
 
+<br>
+
 ### Install Dependencies
+
+<br>
 
 ```bash
 # Clone the repository
@@ -212,7 +248,11 @@ cd 16-DataMining_llm-tabular-preprocessing-dict-groups
 pip install -r requirements.txt
 ```
 
+<br>
+
 ### Docker Setup (Optional)
+
+<br>
 
 ```bash
 # Build Docker image
@@ -222,11 +262,15 @@ docker build -t dict-groups-preprocessing .
 docker run -p 8888:8888 dict-groups-preprocessing
 ```
 
----
 
-## 🚀 Quick Start
+<br><br>
+
+
+##  Quick Start
 
 ### Basic Example
+
+<br>
 
 ```python
 import pandas as pd
@@ -254,8 +298,14 @@ for group_name, columns in feature_dict.items():
     print(df[columns].head())
 ```
 
+<br>
+
+
 ### Output:
-```
+
+<br>
+
+```python
 Processing personal:
       name  age
 0    Alice   25
@@ -275,11 +325,16 @@ Processing professional:
 2   70000         IT
 ```
 
----
 
-## 💻 Basic Examples
+<br><br>
+
+
+##  Basic Examples
 
 ### Example 1: Grouping by Data Type
+
+<br>
+
 
 ```python
 import pandas as pd
@@ -301,11 +356,14 @@ type_groups = {
 }
 ```
 
----
+<br><br>
+
 
 ## 🤖 Advanced Usage with LLMs
 
 ### LLM-Based Feature Generation
+
+<br>
 
 ```python
 # Example: Using grouped text features for LLM prompts
@@ -322,20 +380,29 @@ def create_llm_prompt(row, group_dict):
     return prompt
 ```
 
----
+
+br><br>
+
 
 ## 🌐 Real-World Applications
+
+<br>
 
 1. **E-commerce**: Group product features, pricing, and reviews
 2. **Healthcare**: Organize patient demographics, vitals, and medical history
 3. **Finance**: Separate transaction data, customer info, and risk factors
 4. **NLP**: Combine tabular + text data for hybrid models
 
----
+
+<br><br>
+
 
 ## 📂 Project Structure
 
-```
+<br>
+
+
+```bash
 16-DataMining_llm-tabular-preprocessing-dict-groups/
 │
 ├── Codes/
@@ -353,25 +420,38 @@ def create_llm_prompt(row, group_dict):
 └── README.pt_BR.md
 ```
 
----
 
-## 📓 Notebooks
+br><br>
+
+
+
+## Notebooks
+
+<br>
 
 ### 1. `notebooks_01_basic_example.ipynb`
+
 - Introduction to dictionary-based grouping
 - Basic Pandas operations
 - Simple examples with sample data
 
+<br>
+
+
 ### 2. `notebooks_02_llm_preprocessing.ipynb`
+
 - Advanced LLM integration
 - Feature generation using grouped data
 - Real-world dataset examples
 
 👉 **Open in Colab**: [Basic Example](https://colab.research.google.com) | [LLM Preprocessing](https://colab.research.google.com)
 
----
 
-## 📊 Dataset Resources
+<br><br>
+
+
+
+##  Dataset Resources
 
 The notebooks use publicly available datasets:
 
@@ -379,13 +459,17 @@ The notebooks use publicly available datasets:
 - **Kaggle Datasets**: https://www.kaggle.com/datasets
 - **Hugging Face Datasets**: https://huggingface.co/datasets
 
----
 
-## 📚 References
 
-- **Chen, X., et al.** (2024). LLM-based feature generation from text for interpretable machine learning. *arXiv preprint*. Retrieved from [arxiv.org/html/2409.07132v2](https://arxiv.org/html/2409.07132v2)
+<br><br>
 
-- **DataCamp.** (2024). Pandas GroupBy Explained: Syntax, Examples, and Tips. Retrieved from [datacamp.com/tutorial/pandas-groupby](https://www.datacamp.com/tutorial/pandas-groupby)
+
+##  References
+
+
+[1](). **Chen, X., et al.** (2024). LLM-based feature generation from text for interpretable machine learning. *arXiv preprint*. Retrieved from [arxiv.org/html/2409.07132v2](https://arxiv.org/html/2409.07132v2)
+
+[2](). **DataCamp.** (2024). Pandas GroupBy Explained: Syntax, Examples, and Tips. Retrieved from [datacamp.com/tutorial/pandas-groupby](https://www.datacamp.com/tutorial/pandas-groupby)
 
 - **GeeksforGeeks.** (2024). Pandas dataframe.groupby() Method. Retrieved from [geeksforgeeks.org](https://www.geeksforgeeks.org/pandas-groupby/)
 
