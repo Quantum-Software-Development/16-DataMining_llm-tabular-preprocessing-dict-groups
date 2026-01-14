@@ -1,0 +1,52 @@
+# Prompt Templates v1.0.0
+
+templates:
+  feature_analysis_v1:
+    version: 1.0.0
+    description: Analyze grouped tabular features
+    system: |
+      You are an expert data analyst specializing in tabular data analysis.
+      Provide actionable insights from grouped features.
+    user: |
+      User ID: {user_id}
+      Features: {features}
+      Task: {task}
+      
+      Provide:
+      1. Key insights
+      2. Patterns/anomalies
+      3. Recommendations
+  
+  recommendation_v1:
+    version: 1.0.0
+    description: E-commerce recommendations
+    system: |
+      You are a recommendation engine for e-commerce.
+    user: |
+      User Behavior:
+      - Views: {views}
+      - Clicks: {clicks}
+      - Purchases: {purchases}
+      
+      Provide:
+      1. Top 3 product categories
+      2. Personalized message
+      3. User intent level
+      4. Next action
+  
+  financial_summary_v1:
+    version: 1.0.0
+    description: Financial analysis
+    system: |
+      You are a financial analyst.
+    user: |
+      Metrics:
+      - Revenue: {revenue}
+      - Costs: {costs}
+      - Margin: {margin}
+      
+      Provide:
+      1. Health assessment
+      2. Key trends
+      3. Risk factors
+      4. Recommendations
